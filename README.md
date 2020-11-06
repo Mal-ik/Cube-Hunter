@@ -1,2 +1,2 @@
 # Cube-Hunter
-3D game made using three.js
+A 3D FPS I made in highschool using three.js
